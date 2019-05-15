@@ -1,4 +1,4 @@
 <?php
-    echo "Você é um otário 123";
-    echo"cuzão";
+    echo "Você é um otário";
+    echo "Eu sou o dougras!";
 ?>
